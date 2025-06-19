@@ -109,9 +109,9 @@
 ## 🔥 Featured Projects
 <div align="center">
 
-### 💼 [JobHunt - MERN Job Portal](https://github.com/yourusername/JobHunt)
+### 💼 [JobHunt - MERN Job Portal](https://github.com/AbhijitPalve1506/JobHunt)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=JobHunt&theme=radical&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijitPalve1506&repo=JobHunt&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -134,9 +134,9 @@
 
 <div align="center">
 
-### 💬 [Flicker - Real-Time Chat App](https://github.com/yourusername/Flicker)
+### 💬 [Flicker - Real-Time Chat App](https://github.com/AbhijitPalve1506/Flicker)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Flicker&theme=radical&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijitPalve1506&repo=Flicker&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -162,9 +162,9 @@
 
 <div align="center">
 
-### 📄 [ResumeForge - AI Resume Analyzer](https://github.com/yourusername/ResumeForge)
+### 📄 [ResumeForge - AI Resume Analyzer](https://github.com/AbhijitPalve1506/ResumeForge)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ResumeForge&theme=radical&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijitPalve1506&repo=ResumeForge&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -193,16 +193,16 @@
 ## 🌐 Let's Connect & Collaborate!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kalpakanilkulkarni/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijit-palve-36a107319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kulkarnikalpak15@gmail.com" target="_blank">
+  <a href="mailto:palweabhijeet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://portfolio-seven-phi-mk9m8gv88l.vercel.app/" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Kalpak15" target="_blank">
+  <a href="https://github.com/AbhijitPalve1506" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
