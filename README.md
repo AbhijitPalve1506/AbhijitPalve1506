@@ -7,6 +7,8 @@
 
 ## 🚀 About Me
 
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+
 - 🔭 I'm currently working on Job Hunt
 - 🌱 I'm currently learning Building Scalable application with deployment
 - 👯 I'm looking to collaborate on Open Source Projects
@@ -16,9 +18,6 @@
 - ⚡ Fun fact: I learn more from my bugs than from tutorials. 🧠💥
 - 🎯 Goal: Contributing to impactful open-source projects
 
-<div align="right" width="250px">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ## 🛠️ Languages and Tools
