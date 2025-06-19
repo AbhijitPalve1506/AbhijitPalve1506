@@ -1,6 +1,10 @@
 # Hi there, I'm Abhijit Palve 👋
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Exploring%20Code%20&%20Creativity🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
