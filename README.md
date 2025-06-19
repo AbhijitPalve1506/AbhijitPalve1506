@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I learn more from my bugs than from tutorials. 🧠💥
 - 🎯 Goal: Contributing to impactful open-source projects
 
-<div align="right">
+<div align="right" width="250px">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
