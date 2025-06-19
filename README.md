@@ -130,7 +130,7 @@
 - 📊 Application tracking
 - 🏢 Company/job management
 
-*🚀 Live Demo: [jobhunt-demo.com](https://jobhunt-demo.com)*
+*🚀 [Live Demo](https://jobhunt-demo.com)
 
 ---
 
@@ -160,7 +160,7 @@
 - ♿ 95%+ Lighthouse accessibility score
 - 📱 Fully responsive design
 
-*🚀 Live Demo: [flicker-chat.com](https://flicker-chat.com)*
+*🚀 [Live Demo](https://flicker-chat.com)
 
 ---
 
@@ -188,7 +188,7 @@
 - 🖥 Intuitive upload UI (95% task completion rate)
 - 🔍 Semantic analysis of job descriptions
 
-*🚀 Live Demo: [resumeforge-demo.com](https://resumeforge-demo.com)*
+*🚀 [Live Demo](https://resumeforge-demo.com)
 
 </div>
 
