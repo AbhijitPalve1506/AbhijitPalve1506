@@ -43,7 +43,7 @@
 </p>
 
 <!-- Frontend Development -->
-<h3>Frontend Development</h3>
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -52,7 +52,7 @@
 </p>
 
 <!-- Backend Development -->
-<h3>Backend Development</h3>
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -60,7 +60,7 @@
 </p>
 
 <!-- Databases -->
-<h3>Databases</h3>
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -68,7 +68,7 @@
 </p>
 
 <!-- Tools & Technologies -->
-<h3>Tools & Technologies</h3>
+### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
