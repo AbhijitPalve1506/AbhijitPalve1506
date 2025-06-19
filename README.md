@@ -33,53 +33,28 @@
 
 
   
-### 🧠 Programming Languages:
+### 💻 Programming Languages:
 <!-- Programming Languages -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming Languages" />
 </div>
 
 <!-- Frontend Development -->
-### Frontend Development
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=tailwindcss&logoColor=4FC08D" alt="tailwind"/>
-</p>
-</div>
+🎨 Frontend Development:
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend" /> </div>
 
 <!-- Backend Development -->
-### Backend Development
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</p>
-</div>
+⚙ Backend Development:
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Backend" /> </div>
 
 <!-- Databases -->
-### Databases
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-</div>
+🗄 Databases:
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" /> </div>
 
 <!-- Tools & Technologies -->
 ### Tools & Technologies
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-</div>
+🔧 Tools & Technologies:
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode&theme=dark" alt="Tools and Technologies" /> </div>
 
 ---
 
