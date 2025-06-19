@@ -67,27 +67,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitPalve1506&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </div>
-🐍 CONTRIBUTION SNAKE - EATING THE COMMITS
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhijitPalve1506&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijitPalve1506&theme=react-dark&hide_border=true" alt="Activity Graph">
-</div>
-
----
 ## 🏅 Achievements & Milestones
 
 <div align="center">
@@ -103,6 +83,25 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhijitPalve1506&theme=radical" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhijitPalve1506&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </div>
+---
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijitPalve1506&theme=react-dark&hide_border=true" alt="Activity Graph">
+</div>
+🐍 CONTRIBUTION SNAKE - EATING THE COMMITS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhijitPalve1506&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
 
 ## 🔥 Streak & Contributions
 
