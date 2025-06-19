@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 
 - 🔭 I'm currently working on Job Hunt
 - 🌱 I'm currently learning Building Scalable application with deployment
