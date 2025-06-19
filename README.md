@@ -112,15 +112,59 @@
 
 *🚀 Live Demo: [jobhunt-demo.com](https://jobhunt-demo.com)*
 
-### 🌟 [Project Name 2](https://github.com/[YOUR_USERNAME]/[PROJECT_REPO])
-**Description**: Brief description of your project and what it does.
-- **Tech Stack**: Technologies used
-- **Features**: Key features of the project
+<div align="center">
 
-### 🌟 [Project Name 3](https://github.com/[YOUR_USERNAME]/[PROJECT_REPO])
-**Description**: Brief description of your project and what it does.
-- **Tech Stack**: Technologies used
-- **Features**: Key features of the project
+### 💬 [Flicker - Real-Time Chat App](https://github.com/yourusername/Flicker)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Flicker&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+*⚡ Lightning-fast messaging with <100ms latency*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+*✨ Features:*
+- 💌 Real-time messaging (<100ms latency)
+- 🟢 Online status indicators
+- 🔐 JWT authentication (HTTP-only cookies)
+- ✏️ Typing indicators
+- 🎨 Beautiful UI (Tailwind + DaisyUI)
+- ♿ 95%+ Lighthouse accessibility score
+- 📱 Fully responsive design
+
+*🚀 Live Demo: [flicker-chat.com](https://flicker-chat.com)*
+
+<div align="center">
+
+### 📄 [ResumeForge - AI Resume Analyzer](https://github.com/yourusername/ResumeForge)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ResumeForge&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+*🤖 AI-powered resume optimization with 87% job-matching accuracy*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+*✨ Highlights:*
+- 🎯 87% accurate resume-job matching (RoBERTa model)
+- 📊 Skill gap analysis with course recommendations (+60% feedback quality)
+- 👥 Dual interfaces for candidates/HRs (70% faster shortlisting)
+- 🖥 Intuitive upload UI (95% task completion rate)
+- 🔍 Semantic analysis of job descriptions
+
+*🚀 Live Demo: [resumeforge-demo.com](https://resumeforge-demo.com)*
 
 </div>
 
