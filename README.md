@@ -84,6 +84,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhijitPalve1506&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </div>
 ---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -102,12 +103,6 @@
 </div>
 
 ---
-
-## 🔥 Streak & Contributions
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhijitPalve1506&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Weekly Streak"/>
-</div>
 
 ## 🔥 Featured Projects
 <div align="center">
