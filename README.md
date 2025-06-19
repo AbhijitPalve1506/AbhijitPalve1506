@@ -40,20 +40,19 @@
 </div>
 
 <!-- Frontend Development -->
-🎨 Frontend Development:
+### 🎨 Frontend Development:
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend" /> </div>
 
 <!-- Backend Development -->
-⚙ Backend Development:
+### ⚙ Backend Development:
 <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="Backend" /> </div>
 
 <!-- Databases -->
-🗄 Databases:
+### 🗄 Databases:
 <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" /> </div>
 
 <!-- Tools & Technologies -->
-### Tools & Technologies
-🔧 Tools & Technologies:
+### 🔧 Tools & Technologies:
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode&theme=dark" alt="Tools and Technologies" /> </div>
 
 ---
