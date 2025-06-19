@@ -1,7 +1,7 @@
 # Hi there, I'm Abhijit Palve 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
