@@ -85,6 +85,49 @@
 </div>
 
 ---
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpak15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak15&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpak15&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=79ff97&fire=ff6e96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6e96&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff41/Kalpak15" alt="Contribution Heatmap" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpak15&theme=neon-dark&bg_color=0D1117&color=00ff41&line=ff0080&point=ffd700&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Activity Graph" />
+</div>
+🐍 CONTRIBUTION SNAKE - EATING THE COMMITS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+## 🏅 Achievements & Milestones
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalpak15&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalpak15&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalpak15&theme=radical" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalpak15&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalpak15&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+## 🔥 Streak & Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kalpak15&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Weekly Streak"/>
+</div>
 
 ## 🔥 Featured Projects
 <div align="center">
