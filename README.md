@@ -87,13 +87,30 @@
 ---
 
 ## 🔥 Featured Projects
+<div align="center">
+
+### 💼 [JobHunt - MERN Job Portal](https://github.com/yourusername/JobHunt)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=JobHunt&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+*🌐 Smart job matching for students & recruiters*
 
 <div align="center">
-  
-### 🌟 [Project Name 1](https://github.com/[YOUR_USERNAME]/[PROJECT_REPO])
-**Description**: Brief description of your project and what it does.
-- **Tech Stack**: Technologies used
-- **Features**: Key features of the project
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+*✨ Features:*
+- 👥 Role-based access (Student/Recruiter)
+- 🔍 Advanced job filters
+- 📄 Resume uploads (Multer)
+- 📊 Application tracking
+- 🏢 Company/job management
+
+*🚀 Live Demo: [jobhunt-demo.com](https://jobhunt-demo.com)*
 
 ### 🌟 [Project Name 2](https://github.com/[YOUR_USERNAME]/[PROJECT_REPO])
 **Description**: Brief description of your project and what it does.
