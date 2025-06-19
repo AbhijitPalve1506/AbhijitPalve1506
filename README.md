@@ -3,7 +3,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
----
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhijitPalve1506&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AbhijitPalve1506?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/stars/AbhijitPalve1506?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars">
+</div>
 
 ## 🚀 About Me
 
