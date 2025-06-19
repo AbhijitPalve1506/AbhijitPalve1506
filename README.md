@@ -132,6 +132,8 @@
 
 *🚀 Live Demo: [jobhunt-demo.com](https://jobhunt-demo.com)*
 
+--
+
 <div align="center">
 
 ### 💬 [Flicker - Real-Time Chat App](https://github.com/AbhijitPalve1506/Flicker)
@@ -159,6 +161,8 @@
 - 📱 Fully responsive design
 
 *🚀 Live Demo: [flicker-chat.com](https://flicker-chat.com)*
+
+--
 
 <div align="center">
 
