@@ -132,7 +132,7 @@
 
 *🚀 Live Demo: [jobhunt-demo.com](https://jobhunt-demo.com)*
 
---
+---
 
 <div align="center">
 
@@ -162,7 +162,7 @@
 
 *🚀 Live Demo: [flicker-chat.com](https://flicker-chat.com)*
 
---
+---
 
 <div align="center">
 
