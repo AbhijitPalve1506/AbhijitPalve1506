@@ -18,7 +18,7 @@
 
   <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 
-- 🔭 I'm currently working on Job Hunt
+- 🔭 I'm currently learning Deployment and System Architecture
 - 🌱 I'm currently learning Building Scalable application with deployment
 - 👯 I'm looking to collaborate on Open Source Projects
 - 🤔 I'm looking for help with Advanced System Design
@@ -36,7 +36,7 @@
 ### 💻 Programming Languages:
 <!-- Programming Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Programming Languages" />
 </div>
 
 <!-- Frontend Development -->
