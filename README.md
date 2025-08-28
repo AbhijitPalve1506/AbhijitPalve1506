@@ -53,7 +53,7 @@
 
 <!-- Tools & Technologies -->
 ### 🔧 Tools & Technologies:
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode&theme=dark" alt="Tools and Technologies" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,aws,vscode&theme=dark" alt="Tools and Technologies" /> </div>
 
 ---
 
@@ -130,7 +130,7 @@
 - 📊 Application tracking
 - 🏢 Company/job management
 
-*🚀 [Live Demo](https://jobhunt-demo.com)
+*🚀 [Live Demo](https://jobhunt-site-ckc5.onrender.com/)
 
 ---
 
@@ -160,13 +160,13 @@
 - ♿ 95%+ Lighthouse accessibility score
 - 📱 Fully responsive design
 
-*🚀 [Live Demo](https://flicker-chat.com)
+*🚀 [Live Demo](https://flicker-frontend-vvq9.onrender.com/)
 
 ---
 
 <div align="center">
 
-### 📄 [ResumeForge - AI Resume Analyzer](https://github.com/AbhijitPalve1506/ResumeForge)
+### 📄 [Career Navigator - AI Resume Analyzer](https://github.com/AbhijitPalve1506/ResumeForge)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhijitPalve1506&repo=ResumeForge&theme=radical&hide_border=true&bg_color=0d1117" />
 
@@ -188,7 +188,7 @@
 - 🖥 Intuitive upload UI (95% task completion rate)
 - 🔍 Semantic analysis of job descriptions
 
-*🚀 [Live Demo](https://resumeforge-demo.com)
+*🚀 [Demo Video](https://drive.google.com/drive/u/0/folders/1DbKzzNTcnXc6PP_M1H0BBc6pDd2Xjmcg)
 
 </div>
 
