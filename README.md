@@ -98,14 +98,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhijitPalve1506&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
 ## 🔥 Featured Projects
 <div align="center">
 
@@ -202,9 +194,6 @@
   </a>
   <a href="mailto:palweabhijeet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/AbhijitPalve1506" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
