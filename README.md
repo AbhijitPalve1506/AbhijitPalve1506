@@ -18,7 +18,7 @@
 
   <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 
-- 🔭 I'm currently learning Deployment and System Architecture
+- 🔭 I'm currently focus on core fundamentals
 - 🌱 I'm currently learning Building Scalable application with deployment
 - 👯 I'm looking to collaborate on Open Source Projects
 - 🤔 I'm looking for help with Advanced System Design
